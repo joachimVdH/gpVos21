@@ -8,10 +8,18 @@ date:   2017-06-25 17:28:14 +0100
 
 # Diëtiste
 
-<ul>
-	<li><a href="{{ site.baseurl }}/dietetiek/eline_holvoet.html">Eline Holvoet</a><br> contacteer me via  <script type="text/javascript" language="javascript"><!-- // Email obfuscator script 2.1 by Tim Williams, University of Arizona Random encryption key feature by Andrew Moulden, Site Engineering Ltd This code is freeware provided these four comment lines remain intact A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "p6RX6xXR.Rb6QR@XRbRQRX.BR"; key = "VEUxKpMY49DfktyZuR1hWTibQG5JvNazwLrAP7X2sFd03Sc6Bom8jgeHIOCqln"; shift=coded.length; link=""; for (i=0; i<coded.length; i++) { if (key.indexOf(coded.charAt(i))==-1) { ltr = coded.charAt(i); link += (ltr); } else {  ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length; link += (key.charAt(ltr));}}document.write("<a href='mailto:"+link+"'>"+link+"</a>")} //-->
-</script><noscript>Sorry, you need Javascript on to email me.</noscript> of  <a href="tel:+32494668096" itemprop="telephone">0494 66 80 96</a>
-</li>
-</ul>
+Diëtiek 
+Bij onze diëtiste kan u terecht voor volgende problematieken:
+
+-  Begeleiding bij het zoeken naar een gezond voedingspatroon  
+-  Combinatiedieet  
+-  Overgewicht en obesitas  
+-  Te hoge cholesterol  
+-  Te hoge bloeddruk  
+-  Prikkelbaar darmsyndroom  
+-  Lactose- of glutenintoleranties  
+-  Alternatieve voedingswijze (vegetarisme,…)  
+
+
+* <a href="{{ site.baseurl }}/dietetiek/eline_holvoet.html">Eline Holvoet</a><br> contacteer me via  <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.96</a> of via het [contactformulier](/contact.html). 
 
