@@ -21,6 +21,7 @@ navbar-links:
     - Kinesitherapie: "/kinesitherapie/"
     - Diëtetiek: "/dietetiek/"
     - Cursussen: "/cursussen/"
+  Praktisch: "/praktisch"
   Contact: "/contact"
 
 # --- Logo --- #
