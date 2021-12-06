@@ -4,9 +4,8 @@ title: Laurien Heylen - Logopedie
 permalink: /logopedie/laurien_heylen
 date:   2017-06-25 17:28:14 +0100
 ---
-# Laurien Heylen
 
-## Logopediste
+## Laurien Heylen - Logopediste
 
 <!-- <picture class="portret">
 	<source srcset="/img/Laurien_desktop_300x451.webp" media="(min-width: 769px)" type="image/webp">
@@ -14,6 +13,8 @@ date:   2017-06-25 17:28:14 +0100
 	<source srcset="/img/Laurien_mobile_404x310.webp" type="image/webp">
 	<img srcset="/img/Laurien_mobile_404x310.jpg" alt="Laurien Heylen">
 </picture> -->
+
+<img src="/assets/img/Laurien_SQ.jpg" class="circular--square">
 
 In 2013 ben ik afgestudeerd aan de K.U.Leuven als Master in de logopedische en audiologische wetenschappen. Sindsdien werk ik als zelfstandige logopediste. In 2016 voegde ik me als zelfstandige bij het team van Groepspraktijk Vos.  
 Op regelmatige basis blijf ik me bijscholen in verschillende logopedische domeinen. Ik volgde onder andere studiedagen over comorbiditeit, vreemde talen leren met dyslexie, rekenen volgens de methode van Eureka, overstap naar het middelbaar voor rekenzwakke kinderen, ouderbegeleiding, …   

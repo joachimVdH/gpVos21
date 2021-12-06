@@ -4,14 +4,15 @@ title: Lauren Van der Auwera - Logopedie
 permalink: /logopedie/Lauren_Van_der_Auwera 
 date:   2020-10-21 19:52:14 +0100
 ---
-# Lauren Van der Auwera
 
-## Logopediste
+## Lauren Van der Auwera - Logopediste
 
 <!-- <picture class="portret">
 	<source srcset="/img/LaurenVanderAuwera_desktop_300x516.jpg" media="(min-width: 769px)">
 	<img srcset="/img/LaurenVanderAuwera_mobile_404x346.jpg" alt="Lauren Van der Auwera">
 </picture>  -->
+
+<img src="/assets/img/Lauren_SQ.jpg" class="circular--square">
 
 In juni 2020 ben ik afgestudeerd met onderscheiding aan de Thomas More Hogeschool in Antwerpen.  
 Tijdens mijn stageperiode bij ZNA Middelheim ontdekte ik mijn passie voor het behandelen van volwassenen en ouderen met neurogene communicatiestoornissen.  
