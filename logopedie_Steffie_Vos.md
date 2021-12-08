@@ -7,13 +7,6 @@ date:   2017-06-25 17:28:14 +0100
 
 ## Steffie Vos - Logopediste 
 
-<!-- <picture class="portret">
-	<source srcset="/img/Steffie_desktop_300x516.webp" media="(min-width: 769px)" type="image/webp">
-	<source srcset="/img/Steffie_desktop_300x516.jpg" media="(min-width: 769px)">
-	<source srcset="/img/Steffie_mobile_404x346.webp" type="image/webp">
-	<img srcset="/img/Steffie_mobile_404x346.jpg" alt="Steffie Vos">
-</picture> -->
-
 <img src="/assets/img/Steffie_SQ.jpg" class="circular--square">
 
     
@@ -29,5 +22,6 @@ Ik behandel zelf zowel kinderen, jongeren als volwassenen met:
 - Afasie  
 
 Sinds 2020 werk ik ook deeltijds als zorgleerkracht op een school. Daar werk ik voornamelijk met kleuters met een taalachterstand.
-Een afspraak maken kan telefonisch (<a href="tel:+32498701211" itemprop="telephone">0498/70.12.11</a>) of via het [contactformulier](/contact.html).
 
+  
+Contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).

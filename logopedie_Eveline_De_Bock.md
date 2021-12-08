@@ -19,5 +19,6 @@ Ik behandel kinderen en jongeren met:
 - ontwikkelingsstoornissen (ADHD en ASS)  
   
 De therapieën gaan door op de praktijk, op school of tijdens een huisbezoek.  
-Een afspraak maken kan via SMS (<a href="tel:+32471231187" itemprop="telephone">0471 / 23 11 87</a>) of via het [contactformulier](/contact.html).  
- 
+   
+  
+Contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).

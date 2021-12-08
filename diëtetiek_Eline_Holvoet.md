@@ -5,15 +5,7 @@ permalink: /dietetiek/eline_holvoet
 date:   2017-06-25 17:28:14 +0100
 ---
 
-
-# Eline Holvoet 
-
-## Diëtiste  
-
-<!-- <picture class="portret">
-	<source srcset="/img/Eline_desktop_300x391.jpg" media="(min-width: 769px)">
-	<img srcset="/img/Eline_mobile_404x290.jpg" alt="Eline Holvoet">
-</picture> -->
+## Eline Holvoet - Diëtiste  
 
 In 2015 ben ik afgestudeerd als bachelor Voedings- en dieetkunde aan de AP hogeschool in Antwerpen. Ik ben een erkende diëtiste bij het RIZIV.  
 Mijn doel is om mensen te motiveren en te begeleiden naar een gezonder leven.  

@@ -7,11 +7,6 @@ date:   2021-11-030 21:28:14 +0100
 
 ## Tine Vermeerbergen - Kinesitherapeut
 
-<!-- <picture class="portret">
-	<source srcset="/img/TineVermeerbergen_desktop_300x516.jpg" media="(min-width: 769px)">
-	<img srcset="/img/TineVermeerbergen_mobile_404x346.jpg" alt="Noémi Coppers">
-</picture>   -->
-
 <img src="/assets/img/Tine_SQ.jpg" class="circular--square">
 
 Ik ben Tine Vermeerbergen, kinesitherapeut bij Groepspraktijk Vos. Ik ben in 2007 afgestudeerd en heb vele jaren ervaring in de muskulosketale therapie. Sinds het voorjaar 2021 ben ik mij verder gaan specialiseren in de motorische, cognitieve en emotionele ontwikkeling van kinderen.  
@@ -33,5 +28,5 @@ Dit houdt o.a. in:
 * …
   
   
-U kan mij telefonisch contacteren (<a href="tel:+32473822129" itemprop="telephone">0473/82.21.29</a>) of via het [contactformulier](/contact.html).  
+Contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.96</a> of via het [contactformulier](/contact.html).
   

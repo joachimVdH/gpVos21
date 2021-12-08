@@ -11,11 +11,30 @@ Therapieën vinden plaats op de praktijk, op school of tijdens een huisbezoek.
 Wenst u een afspraak te maken dan kan dat door telefonisch met ons contact op te nemen <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).  
 
 
-* <a href="{{ site.baseurl }}/logopedie/steffie_vos.html">Steffie Vos</a> 
+<div style="display: flex;
+            flex-wrap: wrap;
+            justify-content:space-around;
+            ">
 
-* <a href="{{ site.baseurl }}/logopedie/laurien_heylen.html">Laurien Heylen</a>  
+<div style="text-align: center;">
+    <a href="{{ site.baseurl }}/logopedie/steffie_vos.html">
+    <img src="/assets/img/Steffie_SQm.jpg" style="border-radius: 50%;"><br>
+    <div style="text-align: center;">Steffie Vos</div></a> 
+</div>
+<div style="text-align: center;">
+    <a href="{{ site.baseurl }}/logopedie/laurien_heylen.html">
+    <img src="/assets/img/Laurien_SQm.jpg" style="border-radius: 50%;"><br>
+    <div style="text-align: center;">Laurien Heylen</div></a>  
+</div>
+<div style="text-align: center;">
+    <a href="{{ site.baseurl }}/logopedie/Lauren_Van_der_Auwera.html">
+    <img src="/assets/img/Lauren_SQm.jpg" style="border-radius: 50%;"><br>
+    <div style="text-align: center;">Lauren Van der Auwera</div></a> 
+</div>
+<div style="text-align: center;">
+    <a href="{{ site.baseurl }}/logopedie/eveline_de_bock.html">
+    <img src="/assets/img/Eveline_SQm.jpg" style="border-radius: 50%;;"><br>
+    <div style="text-align: center;">Eveline De Bock</div></a> 
+</div>
 
-* <a href="{{ site.baseurl }}/logopedie/Lauren_Van_der_Auwera.html">Lauren Van der Auwera</a> 
-
-* <a href="{{ site.baseurl }}/logopedie/eveline_de_bock.html">Eveline De Bock</a> 
-
+</div>

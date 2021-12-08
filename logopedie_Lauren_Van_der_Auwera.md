@@ -7,11 +7,6 @@ date:   2020-10-21 19:52:14 +0100
 
 ## Lauren Van der Auwera - Logopediste
 
-<!-- <picture class="portret">
-	<source srcset="/img/LaurenVanderAuwera_desktop_300x516.jpg" media="(min-width: 769px)">
-	<img srcset="/img/LaurenVanderAuwera_mobile_404x346.jpg" alt="Lauren Van der Auwera">
-</picture>  -->
-
 <img src="/assets/img/Lauren_SQ.jpg" class="circular--square">
 
 In juni 2020 ben ik afgestudeerd met onderscheiding aan de Thomas More Hogeschool in Antwerpen.  
@@ -36,5 +31,6 @@ Als logopediste ben ik geconventioneerd. Dit wil zeggen dat ik tarieven hanteer 
 Huisbezoeken zijn mogelijk in regio’s: Lier, Koningshooikt, Berlaar, Sint-Katelijne-Waver, Onze-Lieve-Vrouw-Waver en Duffel.  
 Voor huisbezoeken wordt een kilometervergoeding aangerekend.  
   
-Voor een afspraak of meer info kan u mij contacteren via GSM <a href="tel:+32470072362" itemprop="telephone"> 0470 / 07 23 62 </a> of via het [contactformulier](/contact.html).  
+
+Contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).
   
