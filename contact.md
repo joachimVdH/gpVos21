@@ -15,7 +15,7 @@ intro_paragraph: |-
  <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
   <div style="width: 40%;  margin-left: 5%; margin-bottom: 2%; text-align:right;">
     <b>Stuur ons een bericht</b>
-    <form name="contact" method="POST" netlify data-netlify-recaptcha="true">
+    <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
       <label for="name">Naam</label><br>
       <input type="text" name="name" id="name" autocomplete="name" placeholder="Je naam" title="Gelieve je naam in te vullen" required><br>
       <label for="email">Email</label><br>
