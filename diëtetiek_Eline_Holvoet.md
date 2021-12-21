@@ -7,6 +7,8 @@ date:   2017-06-25 17:28:14 +0100
 
 ## Eline Holvoet - Diëtiste  
 
+<img src="/assets/img/Eline_SQ.jpg" class="circular--square">
+
 In 2015 ben ik afgestudeerd als bachelor Voedings- en dieetkunde aan de AP hogeschool in Antwerpen. Ik ben een erkende diëtiste bij het RIZIV.  
 Mijn doel is om mensen te motiveren en te begeleiden naar een gezonder leven.  
 Dit door ze te ondersteunen en te begeleiden naar een gezondere voedingsgewoontes. Zowel jong als oud kan bij mij terecht.  

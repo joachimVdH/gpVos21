@@ -21,7 +21,9 @@ navbar-links:
     - Kinesitherapie: "/kinesitherapie/"
     - Diëtetiek: "/dietetiek/"
     - Cursussen: "/cursussen/"
-  Praktisch: "/praktisch"
+  Praktisch: 
+    - Tarieven: "/tarieven/"
+    - GDPR: "/gdpr/"
   Contact: "/contact"
 
   # Logopedie: "/logopedie/"
@@ -49,7 +51,7 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "steffievoslogo@hotmail.be"
+  email: /contact/
   facebook: groepspraktijkVos
 #  github: daattali
 #  twitter: daattali
