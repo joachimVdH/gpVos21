@@ -34,43 +34,43 @@ Onze logopedisten zijn geconventioneerd en volgen de tarieven van het RIZIV.
   </tr>
   <tr>
     <td colspan="2">Bilanzitting vóór het begin van een logopedische behandeling</td>
-    <td>32,83</td>
-    <td>25,33</td>
+    <td>33,16</td>
+    <td>25,66</td>
     <td>7,50</td>
-    <td>29,83</td>
+    <td>30,16</td>
     <td>3,00</td>
   </tr>
   <tr>
     <td colspan="2">Evolutiebilan in de loop van een logopedische behandeling </td>
-    <td>46,80</td>
-    <td>35,80</td>
-    <td>11,00</td>
-    <td>42,30</td>
+    <td>47,27</td>
+    <td>36,27</td>
+    <td>11,45</td>
+    <td>42,77</td>
     <td>4,50</td>
   </tr>
   <tr>
     <td rowspan="2">Individuele zitting van minimaal 30 minuten</td>
     <td>Op school</td>
-    <td>25,60</td>
-    <td>19,60</td>
+    <td>27,36</td>
+    <td>21,36</td>
     <td>6,00</td>
-    <td>23,60</td>
+    <td>25,36</td>
     <td>2,00</td>
   </tr>
   <tr>
     <td>Buiten de school</td>
-    <td>26,50</td>
-    <td>21,00</td>
+    <td>28,33</td>
+    <td>22,83</td>
     <td>5,50</td>
-    <td>24,50</td>
+    <td>26,33</td>
     <td>2,00</td>
   </tr>
   <tr>
     <td colspan="2">Individuele zitting van minimaal 60 minuten </td>
-    <td>53,22</td>
-    <td>42,22</td>
+    <td>56,89</td>
+    <td>45,89</td>
     <td>11,00</td>
-    <td>48,72</td>
+    <td>52,39</td>
     <td>4,50</td>
   </tr>
 </tbody>

@@ -19,16 +19,13 @@ navbar-links:
   Aanbod:
     - Logopedie: "/logopedie/"
     - Kinesitherapie: "/kinesitherapie/"
-    - Diëtetiek: "/dietetiek/"
-    - Cursussen: "/cursussen/"
+    - Diëtiek: "/dietiek/"
+    - Cursussen: "/kinesitherapie/typtien/"
   Praktisch: 
     - Tarieven: "/tarieven/"
     - GDPR: "/gdpr/"
   Contact: "/contact"
 
-  # Logopedie: "/logopedie/"
-  # Kinesitherapie: "/kinesitherapie/"
-  # Diëtetiek: "/dietetiek/"
 
  
 
@@ -91,6 +88,7 @@ share-links-active:
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "https://groepspraktijkvos.be"
+url: "https://groepspraktijkvos.be"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

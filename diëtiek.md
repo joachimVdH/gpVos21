@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Diëtetiek
-permalink: /dietetiek/
+title: Diëtiek
+permalink: /dietiek/
 date:   2017-06-25 17:28:14 +0100
 ---
 
@@ -26,7 +26,7 @@ contacteer me via  <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.9
         ">
 
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/dietetiek/eline_holvoet.html">
+    <a href="{{ site.baseurl }}/dietiek/eline_holvoet.html">
     <img src="/assets/img/Eline_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Eline Holvoet</div></a> 
 </div>

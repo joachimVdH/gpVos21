@@ -23,7 +23,7 @@ intro_paragraph: |-
       <label for="phone">Telefoon</label><br>
       <input type="text" name="phone" id="phone" autocomplete="tel-national" placeholder="Je telefoon nummer"><br>
       <label for="message">Bericht</label><br>
-      <textarea name="message" id="message" placeholder="Schrijf je bericht hier" rows="7" required></textarea><br>
+      <textarea name="message" id="message" placeholder="Schrijf je bericht hier - ook de schoolinformatie" rows="7" required></textarea><br>
       <button type="submit" name="submit">Verstuur je bericht</button><br>
     </form>
   </div>
