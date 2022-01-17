@@ -46,9 +46,6 @@ intro_paragraph: |-
     position:absolute;
 }
 </style>
-
- <!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-around;"> -->
- <!--   <div style="width: 40%;  margin-left: 5%; margin-bottom: 2%; text-align:right;"> -->
    
 <div class="flex-container">
    <div class="flex-items">
@@ -76,7 +73,6 @@ intro_paragraph: |-
     </form> 
   </div>
   
-  <!-- <div style="width: 50%; margin-left: 5%; margin-bottom: 2%;"> -->
   <div class="flex-items">
     <b>of bel ons</b><br>
     Logopedie : <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a><br>  
