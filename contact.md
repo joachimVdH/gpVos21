@@ -11,10 +11,48 @@ intro_paragraph: |-
   flagged, will display a CAPTCHA challenge to the user.
 ---
 
+<style>
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: normal;
+  align-content: flex-start;
+}
+ 
+.flex-items {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+  margin: 15px;
+  margin-bottom: 20px;
+}
 
- <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="width: 40%;  margin-left: 5%; margin-bottom: 2%; text-align:right;">
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+</style>
+
+ <!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-around;"> -->
+ <!--   <div style="width: 40%;  margin-left: 5%; margin-bottom: 2%; text-align:right;"> -->
    
+<div class="flex-container">
+   <div class="flex-items">
+
   <b>Stuur ons een bericht</b>
     <form name="contactGPvos" method="POST" action="/berichtverzonden" netlify-honeypot="pottery-field" data-netlify="true" netlify>
       <span style="display:none;">
@@ -36,17 +74,17 @@ intro_paragraph: |-
       <textarea name="bericht" id="bericht" placeholder="Schrijf je bericht hier - ook de schoolinformatie" rows="7" required></textarea><br>
       <button type="submit" name="submit">Verstuur je bericht</button><br>
     </form> 
-
-<!-- <div id="wufoo-qnohtym19lehls"> Fill out my <a href="https://joachimvdh.wufoo.com/forms/qnohtym19lehls">online form</a>. </div> <script type="text/javascript"> var qnohtym19lehls; (function(d, t) { var s = d.createElement(t), options = { 'userName':'joachimvdh', 'formHash':'qnohtym19lehls', 'autoResize':true, 'height':'618', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { qnohtym19lehls = new WufooForm(); qnohtym19lehls.initialize(options); qnohtym19lehls.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>-->
-
   </div>
   
-  <div style="width: 50%; margin-left: 5%; margin-bottom: 2%;">
+  <!-- <div style="width: 50%; margin-left: 5%; margin-bottom: 2%;"> -->
+  <div class="flex-items">
     <b>of bel ons</b><br>
     Logopedie : <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a><br>  
     Kinesitherapie / Psychomotoriek :  <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.96</a><br>    
     Diëtiek : <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.96</a> <br>  
     <br> 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22299.19920226454!2d4.513752365299256!3d51.06496164832233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb697ddab5a8c653c!2sGroepspraktijk%20Vos!5e0!3m2!1snl!2snl!4v1640035784921!5m2!1snl!2snl" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <div class="map-responsive">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22299.19920226454!2d4.513752365299256!3d51.06496164832233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb697ddab5a8c653c!2sGroepspraktijk%20Vos!5e0!3m2!1snl!2snl!4v1640035784921!5m2!1snl!2snl" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
   </div> 
 </div> 
