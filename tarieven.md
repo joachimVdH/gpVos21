@@ -7,7 +7,8 @@ date:   2017-06-25 17:28:14 +0100
 ## Tarieven
 
 ## Logopedie
-Onze logopedisten zijn geconventioneerd en volgen de tarieven van het RIZIV.
+Onze logopedisten zijn **niet** geconventioneerd.  
+Enkel [Lauren Van der Auwera](/logopedie/Lauren_Van_der_Auwera.html) is geconventioneerd en volgt de tarieven van het RIZIV.
 
 #### Patiënten **zonder** voorkeursregeling
 <table style="font-size:small;">
