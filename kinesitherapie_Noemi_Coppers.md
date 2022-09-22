@@ -33,7 +33,7 @@ Vanuit mijn neurologische en pediatrische achtergrond kan je bij mij terecht voo
 * Typelessen en Sprint
 * Bobath therapie: momenteel ben ik Bobath-therapeut in opleiding. Kinderen met centraal neurologische stoornissen zoals Cerebrale Parese kunnen dus ook bij mij terecht. 
   
-Sinds juni 2022 ben ik gedeconventioneerd. Mijn aangepaste tarieven kan u terugvinden onder ‘tarieven’ of op het prikbord in de praktijk.  
+Sinds juni 2022 ben ik gedeconventioneerd. Mijn aangepaste tarieven kan u terugvinden op het prikbord in de praktijk.  
   
 Indien u vragen heeft, meer informatie wenst of graag een afspraak maakt kan u mij altijd telefonisch contacteren <a href="tel:+32472031696" itemprop="telephone">0472/03.16.96</a> of via het [contactformulier](/contact.html).  
 
