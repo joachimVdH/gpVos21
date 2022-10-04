@@ -25,3 +25,6 @@ Sinds 2020 werk ik ook deeltijds als zorgleerkracht op een school. Daar werk ik 
 
   
 Contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).
+  
+  
+ Niet geconventioneerd

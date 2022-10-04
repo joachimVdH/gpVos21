@@ -30,3 +30,5 @@ Dit houdt o.a. in:
   
 Contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.96</a> of via het [contactformulier](/contact.html).
   
+
+ Geconventioneerd 
