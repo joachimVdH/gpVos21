@@ -32,12 +32,6 @@ contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.1
     <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
 </div>
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/logopedie/eveline_de_bock.html">
-    <img src="/assets/img/Eveline_SQm.jpg" style="border-radius: 50%;;"><br>
-    <div style="text-align: center;">Eveline De Bock</div></a> 
-    <div style="text-align: center;font-size:xx-small;">niet geconventioneerd</div>
-</div>
-<div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/elien_marien.html">
     <img src="/assets/img/Elien_SQm.jpg" style="border-radius: 50%;;"><br>
     <div style="text-align: center;">Elien Mariën</div></a> 

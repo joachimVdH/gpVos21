@@ -32,11 +32,6 @@ Wenst u een afspraak te maken dan kan dat door telefonisch met ons contact op te
     <div style="text-align: center;">Lauren Van der Auwera</div></a> 
 </div>
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/logopedie/eveline_de_bock.html">
-    <img src="/assets/img/Eveline_SQm.jpg" style="border-radius: 50%;;"><br>
-    <div style="text-align: center;">Eveline De Bock</div></a> 
-</div>
-<div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/elien_marien.html">
     <img src="/assets/img/Elien_SQm.jpg" style="border-radius: 50%;;"><br>
     <div style="text-align: center;">Elien Mariën</div></a> 
