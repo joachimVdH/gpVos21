@@ -15,8 +15,8 @@ Geef ik u uitgebreid voedingsadvies aan de hand van een voedingsschema en een al
 **Opvolgconsultatie:**  
 Overlopen van het eetdagboekje. We bespreken mogelijke hindernissen en gaan samen opzoek naar oplossingen. De opvolg consultaties dienen om het dieet te ondersteunen.  
 #### Tarieven: 
-- 1e en 2e consultatie (60 minuten): € 60  
-- Opvolgconsultaties (30 minuten): € 30  
+- 1e en 2e consultatie (60 minuten): € 72  
+- Opvolgconsultaties (30 minuten): € 36  
   
 Je krijgt via de mutualiteit een deel terugbetaald.   
 Koppels die samen komen: 2de persoon aan helft van de prijs  
