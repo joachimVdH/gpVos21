@@ -15,7 +15,7 @@ Tijdens het opgroeien kunnen er soms pittige uitdagingen zijn waarbij het kind w
 
 Samen met de ouders ga ik graag op deze ontdekkingsreis.  
 
-<u>**Kinderen**</u> kunnen bij mij terecht voor <u>**psychomotorische moeilijkheden**</u> maar ook voor <u>**orthopedische problemen**</u>.
+<u><b>Kinderen</b></u> kunnen bij mij terecht voor <u><b>psychomotorische moeilijkheden</b></u> maar ook voor <u><b>orthopedische problemen</b></u>.
 
 Dit houdt o.a. in: 
   
@@ -34,7 +34,7 @@ Dit houdt o.a. in:
   
 En ook de allerkleinsten kunnen bij mij terecht.  
 
-Heb je vragen over de <u>**motorische ontwikkeling van je baby**</u>? Dan kan ik je als ouder direct aan de slag laten gaan door middel van advies en aangepaste oefeningen.  
+Heb je vragen over de <u><b>motorische ontwikkeling van je baby</b></u>? Dan kan ik je als ouder direct aan de slag laten gaan door middel van advies en aangepaste oefeningen.  
 
 Dit kan zijn:  
 
