@@ -12,7 +12,7 @@ date:   2017-06-25 17:28:14 +0100
 In 2015 ben ik afgestudeerd als bachelor Voedings- en dieetkunde aan de AP hogeschool in Antwerpen. Ik ben een erkende diëtiste bij het RIZIV.  
 Mijn doel is om mensen te motiveren en te begeleiden naar een gezonder leven.  
 Dit door ze te ondersteunen en te begeleiden naar een gezondere voedingsgewoontes.  
-Zowel **jongeren** als **volwassenen** kan bij mij terecht.  
+Zowel **jongeren** als **volwassenen** kunnen bij mij terecht.  
 
 Ik ben daarnaast ook afgestudeerd als psychiatrisch verpleegkundige. Hierdoor heb ik ook een ruime kennis van pathologie en medicatie. Als hoofdberoep ben ik psychiatrisch verpleegkundige in de jeugdpsychiatrie bij jongeren met een eetstoornis.  
 
