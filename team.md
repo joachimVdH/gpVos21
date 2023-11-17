@@ -78,3 +78,18 @@ contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.9
     <div style="text-align: center;">Eline Holvoet</div></a> 
 </div>
 </div>
+
+# Loopbaancoach en Kindertolk 
+
+<div style="display: flex;
+        flex-wrap: wrap;
+        justify-content:space-around;
+        ">
+
+<div style="text-align: center;">
+    <a href="{{ site.baseurl }}/loopbaancoach_kindertolk/ilse_demarbaix.html">
+    <!-- <img src="/assets/img/Eline_SQm.jpg" style="border-radius: 50%;"><br> -->
+    <div style="text-align: center;">Ilse Demarbaix</div></a> 
+</div>
+</div>
+
