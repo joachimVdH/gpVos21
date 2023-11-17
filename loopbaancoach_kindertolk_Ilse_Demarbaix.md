@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ilse Demarbaix - LogoLoopbaancoach en Kindertolk
-permalink: /loopbaancoach_ en_kindertolk/ilse_demarbaix
+permalink: /loopbaancoach_kindertolk/ilse_demarbaix
 date:   2023-11-17 19:28:14 +0100
 ---
 
@@ -18,7 +18,7 @@ Werken met hart en ziel zijn mij op het lijf geschreven. Ik houd ervan om ieder 
 
 Mijn persoonlijke ervaringen en de liefde om te coachen deden mij besluiten om professioneel hierin verder te gaan. Leren voor het leven zorgt ervoor dat ik me blijf professionaliseren in opleidingen waarbij de mens centraal staat. 
 Ik sta klaar om samen met jou op zoek te gaan naar oplossingen die ervoor zorgen dat ook jij je mooiste leven kan leiden.
-Als gecertificeerd loopbaancoach bij Better Minds at Work (https://bettermindscoaching.com/coach/ilse-demarbaix) en gecertificeerde kindertolk https://presentchild.com/), loop ik naast je.  
+Als gecertificeerd loopbaancoach bij [Better Minds at Work](https://bettermindscoaching.com/coach/ilse-demarbaix) en [gecertificeerde kindertolk](https://presentchild.com/), loop ik naast je.  
 
 Bij mij gaat het over zelfvertrouwen en passie. Twee factoren die jou in beweging krijgen. Mijn competenties motiveren, inspireren, communiceren, vertrouwen scheppen, kracht uitstralen, kwetsbaarheid tonen zet ik tijdens de coaching in.  
 
@@ -26,11 +26,11 @@ Bij mij gaat het over zelfvertrouwen en passie. Twee factoren die jou in bewegin
 - Ik begeleid je graag met vragen rond:
 Communicatie – Energie – Groei – Leiderschap – Loopbaanbegeleiding – Onderwijs – Talentontwikkeling – Veerkracht – Waarden – Werkgeluk – Work-life balans – Burn-out – Angsten en verlangen – Perfectionisme – Studiekeuze 
 - Tip:
-Wist je dat als je 7 jaar gewerkt hebt je recht hebt op 7 uur coaching voor de prijs van 80 €. Het enige wat je moet doen is surfen naar de website van VDAB en nagaan of je recht hebt op deze cheques. Bestellen van de loopbaancheques kan je via deze link: https://www.vdab.be/loopbaanbegeleiding
+Wist je dat als je 7 jaar gewerkt hebt je recht hebt op 7 uur coaching voor de prijs van 80 €. Het enige wat je moet doen is surfen naar de website van VDAB en nagaan of je recht hebt op deze cheques. Bestellen van de loopbaancheques kan je via deze link: [VDAB loopbaanbegeleiding](https://www.vdab.be/loopbaanbegeleiding)
 - Contact:
 Vanuit een gratis intakegesprek luister en voel ik wat ik voor jou kan betekenen. Pas als jij een match voelt en klaar bent om begeleid te worden, gaan we samen aan de slag. 
   
   
-Contacteer me via <a href="tel:+32497818115" itemprop="telephone">0497 / 81 81 15</a> of via [email](demarbaix.ilse@telenet.be).
+Contacteer me via <a href="tel:+32497818115" itemprop="telephone">0497/81.81.15</a> of via <a href="mailto:demarbaix.ilse@telenet.be" itemprop="email">email</a>.
   
   
