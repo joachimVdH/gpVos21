@@ -65,7 +65,7 @@ contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.9
 
 # Diëtiste
 
-<br> contacteer me via  <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.96</a> of via het [contactformulier](/contact.html). 
+contacteer me via  <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.96</a> of via het [contactformulier](/contact.html). 
   
 <div style="display: flex;
         flex-wrap: wrap;
@@ -80,6 +80,8 @@ contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.9
 </div>
 
 # Loopbaancoach en Kindertolk 
+
+contacteer me via <a href="tel:+32497818115" itemprop="telephone">0497/81.81.15</a> of via <a href="mailto:demarbaix.ilse@telenet.be" itemprop="email">email</a>.
 
 <div style="display: flex;
         flex-wrap: wrap;
