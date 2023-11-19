@@ -16,11 +16,11 @@ title: Groepspraktijk Vos
 navbar-links:
   Home: "/"
   Team: "/team/"
-  Aanbod:
+  Aanbod      :
     - Logopedie: "/logopedie/"
     - Kinesitherapie: "/kinesitherapie/"
     - Diëtiek: "/dietiek/"
-    - Loopbaancoach en Kindertolk: "/loopbaancoach_kindertolk/"
+    - Loopbaancoach Kindertolk: "/loopbaancoach_kindertolk/"
     - Cursussen: "/kinesitherapie/2hands4kids/"
   Praktisch: 
     - Tarieven: "/tarieven/"
