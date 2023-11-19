@@ -88,7 +88,7 @@ contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.9
 
 <div style="text-align: center;">
     <a href="{{ site.baseurl }}/loopbaancoach_kindertolk/ilse_demarbaix.html">
-    <!-- <img src="/assets/img/Eline_SQm.jpg" style="border-radius: 50%;"><br> -->
+    <img src="/assets/img/Ilse_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Ilse Demarbaix</div></a> 
 </div>
 </div>

@@ -7,7 +7,7 @@ date:   2023-11-17 19:28:14 +0100
 
 ## Ilse Demarbaix - Loopbaancoach en Kindertolk 
 
-<!-- <img src="/assets/img/Steffie_SQ.jpg" class="circular--square"> -->
+<img src="/assets/img/Ilse_SQ.jpg" class="circular--square">
 
 
 Onderwijs speelde een grote rol in mijn leven. Ik bekleedde verschillende functies binnen het schoolsysteem. Van leerkracht tot directie van een basisschool en coördinerend directeur.  
