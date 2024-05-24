@@ -17,13 +17,13 @@ contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.1
     <a href="{{ site.baseurl }}/logopedie/steffie_vos.html">
     <img src="/assets/img/Steffie_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Steffie Vos</div></a> 
-    <div style="text-align: center;font-size:xx-small;">niet geconventioneerd</div>
+    <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
 </div>
 <div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/laurien_heylen.html">
     <img src="/assets/img/Laurien_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Laurien Heylen</div></a>  
-    <div style="text-align: center;font-size:xx-small;">niet geconventioneerd</div>
+    <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
 </div>
 <div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/Lauren_Van_der_Auwera.html">
@@ -35,7 +35,7 @@ contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.1
     <a href="{{ site.baseurl }}/logopedie/elien_marien.html">
     <img src="/assets/img/Elien_SQm.jpg" style="border-radius: 50%;;"><br>
     <div style="text-align: center;">Elien Mariën</div></a> 
-    <div style="text-align: center;font-size:xx-small;">niet geconventioneerd</div>
+    <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
 </div>
 
 </div>

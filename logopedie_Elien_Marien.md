@@ -23,5 +23,5 @@ De therapie gaat door op school, in de praktijk of tijdens een huisbezoek.
     
 Contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).  
   
-Niet geconventioneerd  
+Geconventioneerd  
   
