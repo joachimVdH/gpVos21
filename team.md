@@ -20,12 +20,6 @@ contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.1
     <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
 </div>
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/logopedie/laurien_heylen.html">
-    <img src="/assets/img/Laurien_SQm.jpg" style="border-radius: 50%;"><br>
-    <div style="text-align: center;">Laurien Heylen</div></a>  
-    <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
-</div>
-<div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/Lauren_Van_der_Auwera.html">
     <img src="/assets/img/Lauren_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Lauren Van der Auwera</div></a> 

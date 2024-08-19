@@ -22,11 +22,6 @@ Wenst u een afspraak te maken dan kan dat door telefonisch met ons contact op te
     <div style="text-align: center;">Steffie Vos</div></a> 
 </div>
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/logopedie/laurien_heylen.html">
-    <img src="/assets/img/Laurien_SQm.jpg" style="border-radius: 50%;"><br>
-    <div style="text-align: center;">Laurien Heylen</div></a>  
-</div>
-<div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/Lauren_Van_der_Auwera.html">
     <img src="/assets/img/Lauren_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Lauren Van der Auwera</div></a> 
