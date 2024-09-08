@@ -4,3 +4,4 @@ _site
 .users.yml
 .DS_Store
 .jekyll-cache
+.afphoto~lock~
