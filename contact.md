@@ -78,6 +78,7 @@ intro_paragraph: |-
     Logopedie : <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a><br>  
     Kinesitherapie / Psychomotoriek : <a href="tel:+32472031696" itemprop="telephone">Noémi : 0472/ 03.16.96</a> ; <a href="tel:+32473822129" itemprop="telephone">Tine : 0473/ 82.21.29</a> <br>    
     Diëtiek : <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.96</a> <br>  
+    Kindercoach : <a href="tel:+32493547502" itemprop="telephone">0493/54.75.02</a> <br>  
     <br> 
     <div class="map-responsive">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22299.19920226454!2d4.513752365299256!3d51.06496164832233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb697ddab5a8c653c!2sGroepspraktijk%20Vos!5e0!3m2!1snl!2snl!4v1640035784921!5m2!1snl!2snl" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

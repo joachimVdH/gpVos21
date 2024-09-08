@@ -76,7 +76,8 @@ contacteer me via  <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.9
 
 # Kindercoach
 
-
+Contacteer me via <a href="tel:+32493547502" itemprop="telephone">0493/54.75.02</a> of via <a href="mailto:maxinevancraen@gmail.com" itemprop="email">email</a>  
+ 
 <div style="display: flex;
         flex-wrap: wrap;
         justify-content:space-around;

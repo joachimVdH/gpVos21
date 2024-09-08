@@ -25,5 +25,5 @@ Je kan bij mij terecht voor:
 Vanaf september start ik een bijkomende opleiding kindercoaching vol nieuwe uitdagingen. Vanwege mijn grote liefde voor dieren zal ik naar de toekomst toe ook nog een opleiding hippotherapie volgen waarbij paarden gebruikt worden om de fysieke en mentale gezondheid van mensen te bevorderen.
   
   
-Contacteer me via <a href="tel:+32493547502" itemprop="telephone">0493 / 54 75 02</a> of via <a href="mailto:maxinevancraen@gmail.com" itemprop="email">email</a>.
+Contacteer me via <a href="tel:+32493547502" itemprop="telephone">0493/54.75.02</a> of via <a href="mailto:maxinevancraen@gmail.com" itemprop="email">email</a>.
   
