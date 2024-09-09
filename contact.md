@@ -66,6 +66,7 @@ intro_paragraph: |-
         <option value="logopedie">Logopedie</option>
         <option value="kinesitherapie">Kinesitherapie</option>
         <option value="dietiek">Diëtiek</option>
+        <option value="kindercoach">Kindercoach</option>
       </select><br>
       <label for="bericht">Bericht</label><br>
       <textarea name="bericht" id="bericht" placeholder="Schrijf je bericht hier - ook de schoolinformatie" rows="7" required></textarea><br>
