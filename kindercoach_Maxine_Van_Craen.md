@@ -14,14 +14,20 @@ In 2024 behaalde ik mijn diploma kindercoach. In de huidige maatschappij, waar d
   
 Je kan bij mij terecht voor:  
   
-- Ondersteunen van de ontwikkeling  
-- Vergroten van het zelfvertrouwen en communicatieve vaardigheden  
-- Omgaan met angsten  
-- Cognitieve functies  
-- Lichamelijke klachten  
-- Bedplassen  
-- Slaapproblemen  
-
+- Faalangst
+- Angst of dwangmatig gedrag
+- Boosheid en woedeaanvallen
+- Verdriet en piekeren
+- Moeite met emoties uiten
+- Onzekerheid en verlegenheid
+- Slaapproblemen
+- Buikpijn of hoofdpijn zonder lichamelijke oorzaak
+- Hooggevoeligheid
+- Pestgedrag of gepest worden
+- Gedragsproblemen
+- Aanpassingsproblemen na een scheiding 
+  
+  
 Vanaf september start ik een bijkomende opleiding kindercoaching vol nieuwe uitdagingen. Vanwege mijn grote liefde voor dieren zal ik naar de toekomst toe ook nog een opleiding hippotherapie volgen waarbij paarden gebruikt worden om de fysieke en mentale gezondheid van mensen te bevorderen.
   
   
