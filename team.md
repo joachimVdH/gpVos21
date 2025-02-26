@@ -90,20 +90,3 @@ Contacteer me via <a href="tel:+32493547502" itemprop="telephone">0493/54.75.02<
 </div>
 </div>
 
-
-# Loopbaancoach en Kindertolk 
-
-contacteer me via <a href="tel:+32497818115" itemprop="telephone">0497/81.81.15</a> of via <a href="mailto:demarbaix.ilse@telenet.be" itemprop="email">email</a>.
-
-<div style="display: flex;
-        flex-wrap: wrap;
-        justify-content:space-around;
-        ">
-
-<div style="text-align: center;">
-    <a href="{{ site.baseurl }}/loopbaancoach_kindertolk/ilse_demarbaix.html">
-    <img src="/assets/img/Ilse_SQm.jpg" style="border-radius: 50%;"><br>
-    <div style="text-align: center;">Ilse Demarbaix</div></a> 
-</div>
-</div>
-
