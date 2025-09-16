@@ -21,7 +21,7 @@ navbar-links:
     - Kinesitherapie: "/kinesitherapie/"
     - Diëtiek: "/dietiek/"
     - Kindercoach: "/kindercoach/"
-    - Cursussen: "/kinesitherapie/2hands4kids/"
+#   - Cursussen: "/kinesitherapie/2hands4kids/"
   Praktisch: 
     - Tarieven: "/tarieven/"
     - GDPR: "/gdpr/"

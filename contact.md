@@ -77,7 +77,7 @@ intro_paragraph: |-
   <div class="flex-items">
     <b>of bel ons</b><br>
     Logopedie : <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a><br>  
-    Kinesitherapie / Psychomotoriek : <a href="tel:+32472031696" itemprop="telephone">Noémi : 0472/ 03.16.96</a> ; <a href="tel:+32473822129" itemprop="telephone">Tine : 0473/ 82.21.29</a> <br>    
+    Kinesitherapie / Psychomotoriek : <a href="tel:+32473822129" itemprop="telephone">Tine : 0473/ 82.21.29</a> <br>    
     Diëtiek : <a href="tel:+32494668096" itemprop="telephone">0494/ 66.80.96</a> <br>  
     Kindercoach : <a href="tel:+32493547502" itemprop="telephone">0493/54.75.02</a> <br>  
     <br> 

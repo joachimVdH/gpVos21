@@ -38,11 +38,6 @@ Tarieven kan u raadplegen op het prikbord in de praktijk. Therapieën gaan door 
             ">
 
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/kinesitherapie/noemi_coppers">
-    <img src="/assets/img/Noémi_SQm.jpg" style="border-radius: 50%;"><br>
-    <div style="text-align: center;">Noémi Coppers</div></a> 
-</div>
-<div style="text-align: center;">
     <a href="{{ site.baseurl }}/kinesitherapie/tine_vermeerbergen">
     <img src="/assets/img/Tine_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Tine Vermeerbergen</div></a>  

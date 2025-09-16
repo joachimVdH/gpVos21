@@ -44,12 +44,6 @@ contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.9
             ">
 
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/kinesitherapie/noemi_coppers">
-    <img src="/assets/img/Noémi_SQm.jpg" style="border-radius: 50%;"><br>
-    <div style="text-align: center;">Noémi Coppers</div></a> 
-    <div style="text-align: center;font-size:xx-small;">niet geconventioneerd</div>
-</div>
-<div style="text-align: center;">
     <a href="{{ site.baseurl }}/kinesitherapie/tine_vermeerbergen">
     <img src="/assets/img/Tine_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Tine Vermeerbergen</div></a>  

@@ -43,7 +43,7 @@ Indien je een klacht hebt specifiek over de verwerking van je persoonsgegevens, 
 ### Wie is verantwoordelijk voor de verzameling en bewaring van je gegevens?
 De verantwoordelijke voor de verzameling en bewaring van je gegevens in het patiëntendossier is je behandelende zorgverlener, die alle gegevens in het dossier noteert.  
 Zijn/haar contactgegevens zijn dezelfde als die van de groepspraktijk:  
-Steffie Vos - Laurien Heylen - Lauren Van der Auwera - Eline Holvoet - Noémi Coppers - Tine Vermeerbergen - Elien Mariën 
+Steffie Vos - Laurien Heylen - Lauren Van der Auwera - Eline Holvoet - Tine Vermeerbergen - Elien Mariën 
 Mechelsesteenweg 26  
 2860 Sint-Katelijne-Waver  
   
