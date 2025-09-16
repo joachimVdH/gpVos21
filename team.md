@@ -36,7 +36,7 @@ contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.1
 
 # Kinesitherapie / Psychomotoriek
 
-contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.96</a> of via het [contactformulier](/contact.html).
+contacteer ons via <a href="tel:+32473822129" itemprop="telephone">0473/ 82.21.29</a> of via het [contactformulier](/contact.html).
 
 <div style="display: flex;
             flex-wrap: wrap;
