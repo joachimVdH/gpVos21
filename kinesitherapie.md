@@ -28,7 +28,7 @@ Psychomotorische therapie richt zich dus op de ontwikkeling van het kind in zijn
 - Werkhouding
 - Geheugen, aandacht en concentratie
   
-contacteer ons via <a href="tel:+32472031696" itemprop="telephone">0472/ 03.16.96</a> of via het [contactformulier](/contact.html).
+contacteer ons via <a href="tel:+32473822129" itemprop="telephone">0473 / 82.21.29</a>  of via het [contactformulier](/contact.html).
   
 Tarieven kan u raadplegen op het prikbord in de praktijk. Therapieën gaan door op de praktijk, op school of tijdens een huisbezoek. Voor sessies die niet in de praktijk plaatsvinden, wordt een kilometervergoeding aangerekend.  
 
