@@ -21,15 +21,15 @@ Wenst u een afspraak te maken dan kan dat door telefonisch met ons contact op te
     <img src="/assets/img/Steffie_SQm.jpg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Steffie Vos</div></a> 
 </div>
- <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/logopedie/catherine_spits.html">
-    <!--<img src="/assets/img/Catherine_SQm.jpg" style="border-radius: 50%;">--><br>
-    <div style="text-align: center;">Catherine Spits</div></a> 
-</div> 
 <div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/elien_marien.html">
     <img src="/assets/img/Elien_SQm.jpg" style="border-radius: 50%;;"><br>
     <div style="text-align: center;">Elien Mariën</div></a> 
 </div>
+ <div style="text-align: center;">
+    <a href="{{ site.baseurl }}/logopedie/catherine_spits.html">
+    <!--<img src="/assets/img/Catherine_SQm.jpg" style="border-radius: 50%;">--><br>
+    <div style="text-align: center;">Catherine Spits</div></a> 
+</div> 
 
 </div>
