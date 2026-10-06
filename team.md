@@ -20,11 +20,11 @@ contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498 / 70.12.
     <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
 </div>
 <div style="text-align: center;">
-    <a href="{{ site.baseurl }}/logopedie/Lauren_Van_der_Auwera.html">
-    <img src="/assets/img/Lauren_SQm.jpg" style="border-radius: 50%;"><br>
-    <div style="text-align: center;">Lauren Van der Auwera</div></a> 
+    <a href="{{ site.baseurl }}/logopedie/catherine_spits.html">
+   <!--  <img src="/assets/img/Catherine_SQm.jpg" style="border-radius: 50%;">--><br>
+    <div style="text-align: center;">Catherine Spits</div></a> 
     <div style="text-align: center;font-size:xx-small;">geconventioneerd</div>
-</div>
+</div> 
 <div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/elien_marien.html">
     <img src="/assets/img/Elien_SQm.jpg" style="border-radius: 50%;;"><br>

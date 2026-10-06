@@ -10,21 +10,23 @@ date:   2017-06-25 17:28:14 +0100
 <img src="/assets/img/Steffie_SQ.jpg" class="circular--square">
 
     
-In 2011 studeerde ik af als Master in de logopedische en audiologische wetenschappen aan de KULeuven. Na mijn afstuderen ben ik direct als zelfstandige logopediste aan het werk gegaan.  
-Na een aantal jaren begon het te kriebelen om de praktijk verder uit te breiden tot een multidisciplinaire praktijk waar verschillende disciplines begeleiding aanbieden op maat van elke patiënt.  
+In 2011 studeerde ik af als Master in de Logopedische en Audiologische Wetenschappen aan de KU Leuven. Na mijn afstuderen ging ik meteen als zelfstandig logopediste aan de slag.  
+
+Doorheen de jaren groeide mijn praktijk en begon steeds meer het idee te leven om verschillende disciplines samen te brengen. Zo ontstond Groepspraktijk Vos, een multidisciplinaire praktijk waar we kinderen, jongeren en volwassenen vanuit verschillende invalshoeken begeleiden en samen zoeken naar ondersteuning die aansluit bij hun individuele noden.    
   
-Ik behandel zelf zowel kinderen, jongeren als volwassenen met:  
+Als logopediste begeleid ik zowel kinderen, jongeren als volwassenen met onder andere:  
  
-- Leerstoornissen (dyslexie, dysorthografie en dyscalculie).  
-- Taalachterstand en taalstoornissen bij kinderen  
-- Fonologische stoornissen  
-- Articulatiestoornissen - myofunctionele stoornissen  
-- Afasie  
+- leerstoornissen zoals dyslexie, dysorthografie en dyscalculie;
+- taalachterstand en taalstoornissen bij kinderen;
+- fonologische stoornissen;
+- articulatiestoornissen;
+- gehoorstoornissen
+- neurologische stoornissen  
 
-Sinds 2020 werk ik ook deeltijds als zorgleerkracht op een school. Daar werk ik voornamelijk met kleuters met een taalachterstand.
-
-  
-Contacteer ons via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).
+Naast mijn werk als zelfstandig logopediste heb ik gedurende vier jaar deeltijds als zorgleerkracht in een school gewerkt, voornamelijk met kleuters met een taalachterstand. Deze ervaring gaf me een waardevolle kijk op de schoolse context en op de manier waarop logopedische ondersteuning en onderwijs elkaar kunnen versterken.  
   
   
-Geconventioneerd
+Wil je graag weten of ik iets voor jou of je kind kan betekenen? Neem gerust contact met ons op via <a href="tel:+32498701211" itemprop="telephone">0498/ 70.12.11</a> of via het [contactformulier](/contact.html).
+  
+  
+Ik ben geconventioneerd.  
