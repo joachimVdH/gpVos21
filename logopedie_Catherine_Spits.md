@@ -16,7 +16,7 @@ Tijdens mijn laatste opleidingsjaar liep ik twee keer stage in een logopedische 
   
 Ik kijk er enorm naar uit om samen met kinderen aan de slag te gaan, stap voor stap vooruitgang te boeken en vooral ook veel bij te leren van elkaar. 😊  
   
-Naast logopedie ben ik een echte dierenvriend. Bij mij thuis lopen er maar liefst vier honden rond en heb ik ook nog twee kleine shetlanders. In mijn vrije tijd ga ik dan ook graag wandelen met mijn honden. In mijn vrije tijd geniet ik van een goed boek, een leuke serie en een potje tennis.  
+Naast logopedie ben ik een echte dierenvriend. Bij mij thuis lopen er maar liefst vier honden rond en heb ik ook nog twee kleine shetlanders. In mijn vrije tijd ga ik dan ook graag wandelen met mijn honden en geniet ik van een goed boek, een leuke serie en een potje tennis.  
   
 Ik heb er alvast heel veel zin in om jullie te ontmoeten!  
   
