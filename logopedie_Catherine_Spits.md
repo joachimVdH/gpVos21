@@ -7,7 +7,7 @@ date:   2017-06-25 17:28:14 +0100
 
 ## Catherine Spits - Logopediste 
 
-<!-- <img src="/assets/img/Steffie_SQ.jpg" class="circular--square"> -->
+<img src="/assets/img/Catherine_SQ.jpeg" class="circular--square">
 
     
 In 2026 behaalde ik mijn bachelor Logopedie aan Thomas More in Antwerpen. Voor ik aan de opleiding Logopedie begon, was ik jarenlang actief met paarden bezig. Ik gaf enkele jaren paardrijlessen en kampjes en vond het heerlijk om kinderen iets bij te leren en samen plezier te maken. Die ervaring heeft mijn interesse in het werken met kinderen alleen maar versterkt. De keuze om logopediste te worden was snel gemaakt en voelde dan ook heel natuurlijk.  

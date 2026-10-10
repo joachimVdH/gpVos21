@@ -28,7 +28,7 @@ Wenst u een afspraak te maken dan kan dat door telefonisch met ons contact op te
 </div>
  <div style="text-align: center;">
     <a href="{{ site.baseurl }}/logopedie/catherine_spits.html">
-    <!--<img src="/assets/img/Catherine_SQm.jpg" style="border-radius: 50%;">--><br>
+    <img src="/assets/img/Catherine_SQm.jpeg" style="border-radius: 50%;"><br>
     <div style="text-align: center;">Catherine Spits</div></a> 
 </div> 
 
